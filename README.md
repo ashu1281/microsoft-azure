@@ -22,4 +22,4 @@ Primary Azure Technology*: Azure Bot Service, QnA Maker, Static Web Apps,
 Other Azure Technologies: App Service
 
 final result::
-https://delightful-plant-0a6ce1f10.1.azurestaticapps.net/
+https://ashish-resturant.azurewebsites.net/
